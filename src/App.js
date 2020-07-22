@@ -2,11 +2,14 @@ import React from "react";
 import "./App.css";
 import Row from "./Row";
 import request from "./request";
+import Banner from "./Banner";
+import Nav from "./Nav";
 
 function App() {
   return (
     <div className="app">
-      <h1>This is netflix clone 🚀🚀🚀🚀</h1>
+      <Nav />
+      <Banner />
       <Row
         title="Netflix Originals"
         isLarger={true}
