@@ -1,6 +1,6 @@
 This is Netflix clone app in React.
 
-### Concepts Used
+## Concepts Used
 
 1. React Hooks
 2. Firebase hosting
@@ -10,12 +10,12 @@ This is Netflix clone app in React.
 6. transform - transition
 7. window scroll listener.
 
-### Available scripts
+## Available scripts
 
-## npm start
+### npm start
 
-## npm run build
+### npm run build
 
-### Live Demo
+## Live Demo
 
 https://netflix-clone-bmg.web.app/
